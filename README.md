@@ -4,4 +4,5 @@
 2.实现背景用毛玻璃显示效果
 
 3.上下切换房间不会造成内存增长,解决了内部循环引用.
+
  ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
