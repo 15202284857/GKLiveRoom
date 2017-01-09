@@ -5,4 +5,4 @@
 
 3.上下切换房间不会造成内存增长,解决了内部循环引用.
 
-![ABC](https://pan.baidu.com/disk/home#list/vmode=list&path=%2Fgithub%E8%B5%84%E6%BA%90) 
+![ABC](http://pic6.huitu.com/res/20130116/84481_20130116142820494200_1.jpg) 
